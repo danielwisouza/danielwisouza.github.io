@@ -6,5 +6,5 @@
 - 👯 Procuro coladorar em **projetos de ciência e engenharia de dados**
 - 💬 Me pergunte sobre **tecnologia, engenharia de dados, SQL Server, carreira; ficarei feliz em ajudar.**
 
--  📚 Veja meu portfólio: [Abrir Portfólio]([https://danielwisouza.github.io/](https://danielwisouza.github.io/danielwisouza/))
+-  📚 Veja meu portfólio: [Abrir Portfólio]([https://danielwisouza.github.io/](https://danielwisouza.github.io/danielwisouza/)
 
