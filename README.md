@@ -8,3 +8,6 @@
 
 -  📚 Veja meu portfólio: [Abrir Portfólio]([https://danielwisouza.github.io/](https://danielwisouza.github.io/danielwisouza/))
 
+-   [Abrir Portfólio](https://danielwisouza.github.io/danielwisouza/)
+
+
