@@ -11731,4 +11731,11 @@ html {
     width: 1.5vw;
     left: -2vw;
   }
+
+  .card-img,
+.card-img-top,
+.card-img-bottom {
+  width: 100%;
+}
+
 }
